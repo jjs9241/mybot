@@ -144,4 +144,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# token
+test.py
+
+# env
+.env
+
 # End of https://www.gitignore.io/api/python,windows,visualstudiocode
